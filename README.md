@@ -1,4 +1,4 @@
-### I make stuff 👋
+### I make stuff
 [My Website](https://nkumar.info)
 <!--
 **nKumar2015/nKumar2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
